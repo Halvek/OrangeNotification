@@ -1,0 +1,9 @@
+{"address_book": ["yu.gordeychik@avgust.com","yu.gordeychik@avgust.com"],
+"mail_server": "Cas.avgust.com",
+"sender": "albreport@avgust.com",
+"path":"V:\\",
+"Body_Error" : "Система маркировки не смогла обработать файл:",
+"Body_OK" : "Система маркировки успешно обработала файл:",
+"Subj_Error": "Ошибка при обработке файла ",
+"Subj_ОК": "Файл успешно обработан "
+}
